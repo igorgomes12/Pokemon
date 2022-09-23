@@ -84,6 +84,14 @@ export const Botao = styled.button`
 
 
 `
+
+export const Hello = styled.div`
+justify-content: center;
+align-items: column;
+display: flex;
+
+`
+
 export const DivTable = styled.div`
 display: table;
 max-width:20em;
